@@ -7,7 +7,7 @@ public class exer005_date_time {
 		
 		GregorianCalendar gc = new GregorianCalendar();
 		
-		mm = gc.get(Calendar.MONTH);
+		mm = gc.get(Calendar.MONTH) + 1;
 		dd = gc.get(Calendar.DAY_OF_MONTH);
 		yy = gc.get(Calendar.YEAR);
 		
