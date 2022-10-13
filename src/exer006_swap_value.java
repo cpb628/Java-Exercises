@@ -3,7 +3,7 @@
 
 
 class SwapFirst {
-	int num1, num2, a, b;
+	int num1, num2;
 	SwapFirst(int a, int b) {
 		num1 = a;
 		num2 = b;
