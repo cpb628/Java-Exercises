@@ -27,7 +27,7 @@ public class exer019_matrix_subtraction {
 		}
 		
 	
-		// Add 2 Matrix Cube
+		// Subtract 2 Matrix Cube
 		for (x = 0; x < num1.length; x++) {
 			for (y = 0; y < 2; y++) {
 				num3[x][y] = num1[x][y] - num2[x][y];  
